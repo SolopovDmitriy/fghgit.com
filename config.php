@@ -1,6 +1,7 @@
 <?php
 const DEVELOP_MODE = true;
 
+
 const DB_USER = 'root';
 const DB_PASS = 'root';
 const DB_HOST = 'fgh.com';
